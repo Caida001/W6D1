@@ -8,8 +8,6 @@ const game_view = require('./game_view.js');
 game_view();
 const game = require('./game.js');
 game();
-const inherit = require('./inherit.js');
-inherit();
 const ship = require('./ship');
 ship();
 const utils = require('./utils');
